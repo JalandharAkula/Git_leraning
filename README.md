@@ -1,2 +1,3 @@
-# Git_leraning
-This is just apractice for leraning git
+# My Git Project
+
+This README file describes the project.
